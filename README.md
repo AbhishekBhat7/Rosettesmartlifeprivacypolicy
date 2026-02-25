@@ -8,7 +8,7 @@ This is why we want to be fully transparent about: (i) how and why we collect, s
 
 While we would strongly advise you to read the Policy in full, the following summary will give you a snapshot of the salient points covered herein:
 
-This Policy details the critical aspects governing your personal data relationship with ‘WellWise and Ayursetu - Uplifting Wellness’ which is owned and operated by Rosette Smart Life, a company incorporated under the laws of India, and having its registered office at Moodbidri, Mangalore- 574 225, Karnataka, India;
+This Policy details the critical aspects governing your personal data relationship with ‘WellWise’ which is owned and operated by Rosette Smart Life, a company incorporated under the laws of India, and having its registered office at Moodbidri, Mangalore- 574 225, Karnataka, India;
 Your personal data relationship with WellWise varies based on the capacity in which you interact with us/avail of our products and services (“Services”). You could be: (i) a visitor to www.rosettesmartlife.com(“Website”) or any pages thereof (“Visitor”); or (ii) a person who has an account with WellWise to avail our Services (“Registered User”);
 Based on whether you are a Visitor or Registered User, the type of data we collect and the purpose for which we use it will differ and this Policy details such variations;
 This Policy applies to all the Services provided by WellWise through the Website, App or any other associated website of WellWise;
